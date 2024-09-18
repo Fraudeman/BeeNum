@@ -1,0 +1,15 @@
+{
+    "name": "My project",
+    "short_name": "My project",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#634C7F",
+    "theme_color": "#000",
+    "description": "",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
